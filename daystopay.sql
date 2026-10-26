@@ -1,0 +1,1 @@
+Select * from MANAGED_CARE_ANALYTICS.ANALYTICS."DaysToPay"
