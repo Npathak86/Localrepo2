@@ -1,1 +1,1 @@
-Select * from MANAGED_CARE_ANALYTICS.ANALYTICS."DaysToPay"
+Select * from MANAGED_CARE_ANALYTICS.ANALYTICS."DaysToPay" where Facility_system ='Ascension'
